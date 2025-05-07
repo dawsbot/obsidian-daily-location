@@ -1,0 +1,10 @@
+{
+  "id": "daily-location-plugin",
+  "name": "Daily Location",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Automatically adds city, state, and country to the top of daily notes.",
+  "author": "Dawson Botsford",
+  "authorUrl": "https://dawsbot.com",
+  "main": "main.js"
+}
