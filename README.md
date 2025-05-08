@@ -1,4 +1,4 @@
-# Obsidian Daily Location
+# Obsidian Daily Notes Location
 
 Start every daily note with the current location. Works together and requires the Core Plugin "Daily notes".
 
