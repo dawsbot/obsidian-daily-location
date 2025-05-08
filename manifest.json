@@ -1,7 +1,7 @@
 {
   "id": "daily-notes-location",
   "name": "Daily Notes Location",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minAppVersion": "0.12.0",
   "description": "Automatically adds city, state, and country to the top of daily notes.",
   "author": "dawsbot",
